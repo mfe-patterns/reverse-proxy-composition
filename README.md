@@ -1,5 +1,7 @@
 # reverse-proxy-composition
-A revers proxy composition method to create run time micro frontends.
+### A revers proxy composition method to create run time micro frontends.
+
+#### Use node version 14.X.X for seamless working fo the application.
 
 ## To run proxy server
 
